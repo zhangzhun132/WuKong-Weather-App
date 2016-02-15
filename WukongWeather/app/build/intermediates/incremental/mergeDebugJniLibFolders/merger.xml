@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\android_studio\Weather1\app\src\main\jniLibs"><file name="armeabi/liblocSDK3.so" path="G:\android_studio\Weather1\app\src\main\jniLibs\armeabi\liblocSDK3.so"/></source></dataSet><dataSet config="debug"><source path="G:\android_studio\Weather1\app\src\debug\jniLibs"/></dataSet></merger>

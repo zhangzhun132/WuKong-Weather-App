@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.way.viewpager.FragmentViewPager
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragmentPager">
+
+    </com.way.viewpager.FragmentViewPager>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:id="@+id/id_refresh"
+        android:layout_height="match_parent">
+
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>

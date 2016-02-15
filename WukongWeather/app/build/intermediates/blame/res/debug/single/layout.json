@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_4x2.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\widget_4x2.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_city_item.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\search_city_item.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_title.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\main_title.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\r_okcanceldialogview.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\r_okcanceldialogview.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_more_list_item.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_more_list_item.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_subitem.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_subitem.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_m.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\pageturning_m.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_city_item.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\select_city_item.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_ip_query_city.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_ip_query_city.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_indicator_popup.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_indicator_popup.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_list_group_item.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_list_group_item.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\fragment2.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_load_empty_layout.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\base_load_empty_layout.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_box.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\search_box.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_item_first.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_item_first.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_layout.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_layout.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_h.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\pageturning_h.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_item.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_item.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_select_city.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\biz_plugin_weather_select_city.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment3.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\fragment3.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\r_okdialogview.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\r_okdialogview.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

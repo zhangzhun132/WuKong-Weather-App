@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_loading_small_anim.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\anim\\base_loading_small_anim.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_loading_large_anim.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\anim\\base_loading_large_anim.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\title_update_anim.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\anim\\title_update_anim.xml"
+    }
+]

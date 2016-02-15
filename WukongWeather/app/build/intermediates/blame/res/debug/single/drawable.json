@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_press.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\button_press.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kaixin_list_item_bg.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\kaixin_list_item_bg.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\actionbar_background.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_box_cancel_btn_bg.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\search_box_cancel_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_list_selector.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\base_list_selector.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_press_selector.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\share_press_selector.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_search_box_background.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\contact_search_box_background.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_normal.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\actionbar_btn_normal.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_area_press.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\hot_area_press.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kaixin_background.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\kaixin_background.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_search_edittext_selector.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\base_search_edittext_selector.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_city_update_press.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\title_city_update_press.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn.xml",
+        "source": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\drawable\\actionbar_btn.xml"
+    }
+]
