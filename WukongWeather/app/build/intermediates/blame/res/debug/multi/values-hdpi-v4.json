@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "G:\\android_studio\\Weather1\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 97
                 },
                 "from": {
-                    "file": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "file": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 149
                 },
                 "from": {
-                    "file": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "file": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "file": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 252
                 },
                 "from": {
-                    "file": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "file": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -87,34 +87,13 @@
                     "endOffset": 312
                 },
                 "from": {
-                    "file": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "file": "G:\\android_studio\\Weather1\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
                         "startOffset": 258,
                         "endColumn": 59,
                         "endOffset": 313
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 317,
-                    "endLine": 11,
-                    "endColumn": 13,
-                    "endOffset": 589
-                },
-                "from": {
-                    "file": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hdpi\\values-hdpi.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 235,
-                        "endLine": 8,
-                        "endColumn": 13,
-                        "endOffset": 507
                     }
                 }
             }

@@ -3,32 +3,22 @@
     android:id="@+id/title_workspace_layout"
     android:layout_width="fill_parent"
     android:layout_height="45.0dip"
-    android:background="#ff3ba4dc">
+    android:background="#ff3ba4dc" >
 
-    <RelativeLayout
+    <LinearLayout
         android:id="@+id/title_city_manager_layout"
         android:layout_width="wrap_content"
         android:layout_height="fill_parent"
+        android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
-        android:orientation="horizontal">
+        android:orientation="horizontal" >
 
         <ImageView
-            android:id="@+id/menu_city"
-            android:layout_width="35.0dip"
-            android:layout_height="35.0dip"
-            android:layout_alignParentLeft="true"
-            android:layout_marginTop="5dp"
-            android:src="@drawable/main_menu">
+            android:id="@+id/title_city_manager"
+            android:layout_width="45.0dip"
+            android:layout_height="45.0dip"
 
-        </ImageView>
-
-        <ImageView
-            android:id="@+id/share_image"
-            android:layout_width="35.0dip"
-            android:layout_height="35.0dip"
-            android:layout_alignParentRight="true"
-            android:layout_marginTop="5dp"
-            android:src="@drawable/main_share">
+            android:src="@drawable/title_city">
 
         </ImageView>
 
@@ -39,7 +29,10 @@
             android:layout_gravity="center"
             android:background="#ff3ba4dc"
             android:gravity="center" />
-    </RelativeLayout>
+    </LinearLayout>
+
+
+
 
 
 </RelativeLayout>

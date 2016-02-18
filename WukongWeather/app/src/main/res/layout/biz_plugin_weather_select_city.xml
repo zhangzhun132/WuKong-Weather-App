@@ -6,7 +6,7 @@
     android:background="@color/base_main_bg_color" >
 
     <!--
-         <com.zhangzhun.way.actionbar.ActionBar
+         <com.way.actionbar.ActionBar
         android:id="@+id/actionbar"
         style="@style/ActionBar" />
     -->
@@ -79,7 +79,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" >
 
-                <com.zhangzhun.way.plistview.PinnedHeaderListView
+                <com.way.plistview.PinnedHeaderListView
                     android:id="@+id/citys_list"
                     style="@style/base_listview_style"
                     android:layout_width="fill_parent"
@@ -93,7 +93,7 @@
                     android:layout_height="fill_parent"
                     layout="@layout/base_load_empty_layout" />
 
-                <com.zhangzhun.way.plistview.BladeView
+                <com.way.plistview.BladeView
                     android:id="@+id/citys_bladeview"
                     android:layout_width="40dip"
                     android:layout_height="fill_parent"
