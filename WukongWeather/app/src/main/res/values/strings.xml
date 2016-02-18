@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">简洁天气</string>
+    <string name="author_name">zhangzhun</string>
+    <string name="author_email">460093533@qq.com</string>
+    <string name="header_title">定位失败</string>
+    <string name="question">是否手动选择城市？</string>
+    <string name="button_like">取消</string>
+    <string name="button_love">确定</string>
+    <string name="app_name">悟空天气</string>
     <string name="channel_id">baidu_news</string>
     <string name="ns_appkey">2x1kfBk63z</string>
     <string name="version_build_num">更新序号：Build 262</string>
@@ -362,7 +368,7 @@
     <string name="biz_pc_recommend_netease">网易应用中心推荐</string>
     <string name="biz_pc_recommend_subnetease">来自网易应用中心的应用</string>
     <string name="biz_widget_4_1">网易新闻4x1</string>
-    <string name="biz_widget_4_2">简洁天气4x2</string>
+    <string name="biz_widget_4_2">悟空天气4x2</string>
     <string name="biz_widget_4_3">网易新闻4x3</string>
     <string name="biz_widget_4_4">网易新闻4x4</string>
     <string name="biz_widget_loadding">正在加载新闻内容...</string>

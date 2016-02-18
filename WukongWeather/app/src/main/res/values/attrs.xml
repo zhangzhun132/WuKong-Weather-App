@@ -52,7 +52,7 @@
         <!-- Color of the open circles. -->
         <attr name="strokeColor" format="color" />
         <!-- Width of the stroke used to draw the circles. -->
-        <attr name="strokeWidth"   format="dimension" /> -
+        <attr name="newstrokeWidth"   format="dimension" />
         <!-- View background -->
         <attr name="android:background" />
     </declare-styleable>

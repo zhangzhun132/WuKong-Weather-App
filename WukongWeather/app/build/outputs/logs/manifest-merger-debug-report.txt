@@ -1,181 +1,213 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:2:1-85:12
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:2:1-87:12
 	package
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:5:5-32
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:23.1.0] G:\android_studio\Weather1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.timqi.sectorprogressview:SectorProgressView:1.0.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.timqi.sectorprogressview\SectorProgressView\1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [WukongWeather:RoundCornerProgressBar:unspecified] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\WukongWeather\RoundCornerProgressBar\unspecified\AndroidManifest.xml:8:5-10:41
+MERGED from [WukongWeather:ptrlib:unspecified] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\WukongWeather\ptrlib\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:materialdrawer:4.6.4] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\4.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.mikepenz:materialize:0.5.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.5.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.mikepenz:iconics-core:2.5.4] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.orhanobut:dialogplus:1.10] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.orhanobut\dialogplus\1.10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.navasmdc:MaterialDesign:1.5] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.5\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:8:9-34
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
-		INJECTED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
+		INJECTED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:11:5-67
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:12:5-84
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:12:5-84
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:12:22-81
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:12:22-81
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:13:5-81
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:14:5-81
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:14:22-78
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:15:5-79
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:15:22-76
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:15:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:16:5-76
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:16:5-76
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:16:22-73
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:16:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:17:5-79
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:17:22-76
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:17:22-76
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:18:5-76
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:19:5-76
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:18:22-73
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:19:22-73
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:19:5-75
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:20:5-75
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:19:22-72
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:20:22-72
 uses-permission#android.permission.READ_LOGS
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:21:5-68
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:22:5-68
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:21:22-65
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:22:22-65
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:22:5-81
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:23:5-81
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:22:22-78
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:23:22-78
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:23:5-75
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:24:5-75
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:23:22-72
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:24:22-72
 application
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:26:5-83:19
-MERGED from [com.android.support:support-v4:23.1.0] G:\android_studio\Weather1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:27:5-85:19
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.timqi.sectorprogressview:SectorProgressView:1.0.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.timqi.sectorprogressview\SectorProgressView\1.0.1\AndroidManifest.xml:11:5-13:44
+MERGED from [WukongWeather:ptrlib:unspecified] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\WukongWeather\ptrlib\unspecified\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.orhanobut:dialogplus:1.10] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.orhanobut\dialogplus\1.10\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.navasmdc:MaterialDesign:1.5] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.5\AndroidManifest.xml:11:5-47
 	android:label
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:29:9-41
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:30:9-41
 	android:icon
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:28:9-45
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from [com.timqi.sectorprogressview:SectorProgressView:1.0.1] G:\android_studio\WukongWeather\app\build\intermediates\exploded-aar\com.timqi.sectorprogressview\SectorProgressView\1.0.1\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:30:9-40
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:31:9-40
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:27:9-47
-activity#com.way.weather.MainActivity
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:31:9-42:20
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:28:9-57
+activity#com.zhangzhun.way.weather.MainActivity
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:33:9-44:20
 	android:screenOrientation
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:36:13-49
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:38:13-49
 	android:launchMode
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:35:13-43
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:37:13-43
 	android:configChanges
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:34:13-70
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:36:13-70
 	android:alwaysRetainTaskState
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:33:13-49
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:35:13-49
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:32:13-56
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:34:13-66
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:37:13-41:29
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:40:17-77
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:40:27-74
-activity#com.way.weather.SelectCtiyActivity
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:43:9-50:20
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:42:27-74
+activity#com.zhangzhun.way.weather.SelectCtiyActivity
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:45:9-52:20
 	android:screenOrientation
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:48:13-49
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:50:13-49
 	android:launchMode
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:47:13-43
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:49:13-43
 	android:windowSoftInputMode
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:49:13-64
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:51:13-64
 	android:configChanges
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:46:13-70
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:48:13-70
 	android:alwaysRetainTaskState
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:45:13-49
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:47:13-49
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:44:13-47
-receiver#com.way.weather.WeatherWidget
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:52:9-74:20
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:46:13-72
+receiver#com.zhangzhun.way.weather.WeatherWidget
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:54:9-76:20
 	android:label
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:54:13-51
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:56:13-51
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:53:13-57
-intent-filter#android.appwidget.action.APPWIDGET_UPDATE+android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+com.way.weather.WeatherWidget.TEXTINFO_LEFT_HOTAREA_ACTION+com.way.weather.WeatherWidget.TEXTINFO_RIGHT_HOTAREA_ACTION+com.way.weather.WeatherWidget.TIME_LEFT_HOTAREA_ACTION+com.way.weather.WeatherWidget.TIME_RIGHT_HOTAREA_ACTION+com.way.weather.WeatherWidget.WEATHERICON_HOTAREA_ACTION
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:55:13-69:29
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:55:13-67
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+com.zhangzhun.way.weather.WeatherWidget.TEXTINFO_LEFT_HOTAREA_ACTION+com.zhangzhun.way.weather.WeatherWidget.TEXTINFO_RIGHT_HOTAREA_ACTION+com.zhangzhun.way.weather.WeatherWidget.TIME_LEFT_HOTAREA_ACTION+com.zhangzhun.way.weather.WeatherWidget.TIME_RIGHT_HOTAREA_ACTION+com.zhangzhun.way.weather.WeatherWidget.WEATHERICON_HOTAREA_ACTION
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:57:13-71:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:56:17-84
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:58:17-84
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:56:25-81
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:58:25-81
 action#android.intent.action.USER_PRESENT
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:57:17-77
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:59:17-77
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:57:25-74
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:59:25-74
 action#android.intent.action.BOOT_COMPLETED
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:58:17-79
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:60:17-79
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:58:25-76
-action#com.way.weather.WeatherWidget.TEXTINFO_LEFT_HOTAREA_ACTION
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:59:17-101
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:60:25-76
+action#com.zhangzhun.way.weather.WeatherWidget.TEXTINFO_LEFT_HOTAREA_ACTION
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:61:17-111
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:59:25-98
-action#com.way.weather.WeatherWidget.WEATHERICON_HOTAREA_ACTION
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:60:17-99
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:61:25-108
+action#com.zhangzhun.way.weather.WeatherWidget.WEATHERICON_HOTAREA_ACTION
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:62:17-109
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:60:25-96
-action#com.way.weather.WeatherWidget.TEXTINFO_RIGHT_HOTAREA_ACTION
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:61:17-102
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:62:25-106
+action#com.zhangzhun.way.weather.WeatherWidget.TEXTINFO_RIGHT_HOTAREA_ACTION
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:63:17-112
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:61:25-99
-action#com.way.weather.WeatherWidget.TIME_LEFT_HOTAREA_ACTION
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:62:17-97
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:63:25-109
+action#com.zhangzhun.way.weather.WeatherWidget.TIME_LEFT_HOTAREA_ACTION
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:64:17-107
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:62:25-94
-action#com.way.weather.WeatherWidget.TIME_RIGHT_HOTAREA_ACTION
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:63:17-98
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:64:25-104
+action#com.zhangzhun.way.weather.WeatherWidget.TIME_RIGHT_HOTAREA_ACTION
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:65:17-108
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:63:25-95
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:65:25-105
 meta-data#android.appwidget.provider
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:71:13-73:62
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:73:13-75:62
 	android:resource
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:73:17-59
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:75:17-59
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:72:17-58
-service#com.way.weather.WeatherUpdateService
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:76:9-77:19
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:74:17-58
+service#com.zhangzhun.way.weather.WeatherUpdateService
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:78:9-79:19
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:76:18-69
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:78:18-79
 service#com.baidu.location.f
-ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:78:9-82:19
+ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:80:9-84:19
 	android:enabled
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:80:13-35
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:82:13-35
 	android:process
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:81:13-38
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:83:13-38
 	android:name
-		ADDED from G:\android_studio\Weather1\app\src\main\AndroidManifest.xml:79:13-48
+		ADDED from G:\android_studio\WukongWeather\app\src\main\AndroidManifest.xml:81:13-48

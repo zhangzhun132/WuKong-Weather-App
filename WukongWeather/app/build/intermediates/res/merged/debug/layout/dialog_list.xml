@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/outmost_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:divider="@null"
+        android:dividerHeight="0dp"/>
+</LinearLayout><!-- From: file:/Users/oobut/dev/nr4bt/DialogPlusSample/dialogplus/src/main/res/layout/dialog_list.xml -->

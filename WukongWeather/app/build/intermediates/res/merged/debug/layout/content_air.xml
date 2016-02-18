@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/content_air"
+    android:layout_height="match_parent"
+    android:background="#ff3ba4dc">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:id="@+id/frame"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:layout_marginTop="40dp">
+
+            <com.timqi.sectorprogressview.ColorfulRingProgressView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/sectorProgressView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:bgColor="#e1e1e1"
+                app:fgColorEnd="#ff4800"
+                app:fgColorStart="#ffe400"
+                app:percent="75"
+                app:startAngle="0"
+                app:strokeWidth="21dp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="pm2.5"
+                    android:textColor="@color/white"
+                    android:textSize="24sp" />
+                <TextView
+                    android:id="@+id/pm_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="75"
+                    android:textColor="@color/white"
+                    android:textSize="34sp" />
+            </LinearLayout>
+
+
+        </FrameLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_toRightOf="@id/frame">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="#ff3ba4dc"
+                android:orientation="vertical"
+                android:padding="20dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/text_aqi"
+                    android:lineSpacingExtra="4dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="10dp"
+                    android:text="AQI"
+                    android:textColor="@color/text"
+                    android:textSize="15sp" />
+                <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+                    android:layout_width="150dp"
+                    android:layout_height="20dp"
+                    android:id="@+id/progress_one"
+
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    app:rcBackgroundColor="#ff3ba4dc"
+                    app:rcBackgroundPadding="2dp"
+                    app:rcMax="100"
+                    app:rcProgress="90"
+                    app:rcProgressColor="@color/custom_progress_orange_header"
+                    app:rcRadius="20dp" />
+
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="#ff3ba4dc"
+                android:orientation="vertical"
+                android:padding="20dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:lineSpacingExtra="4dp"
+                    android:paddingLeft="10dp"
+                    android:id="@+id/text_no2"
+                    android:paddingTop="10dp"
+                    android:text="二氧化碳"
+                    android:textColor="@color/text"
+                    android:textSize="15sp" />
+                <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+                    android:layout_width="150dp"
+                    android:layout_height="20dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/progress_two"
+
+                    app:rcBackgroundColor="#ff3ba4dc"
+                    app:rcBackgroundPadding="2dp"
+                    app:rcMax="100"
+                    app:rcProgress="70"
+                    app:rcProgressColor="@color/custom_progress_green_progress"
+                    app:rcRadius="20dp" />
+
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/frame"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/live_yanjing_no" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingLeft="20dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="天气"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/biz_plugin_weather_otherday_climate_textsize" />
+                        />
+
+                        <TextView
+                            android:id="@+id/tianqi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="较舒适"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/base_dropdown_list_title" />/>
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/live_xiche_no" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingLeft="20dp"
+
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="洗车"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/biz_plugin_weather_otherday_climate_textsize" />
+                        />
+
+                        <TextView
+                            android:id="@+id/xiche"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="较适宜"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/base_dropdown_list_title" />/>
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/live_yifu_no" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingLeft="20dp"
+
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="穿衣"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/biz_plugin_weather_otherday_climate_textsize" />
+                        />
+
+                        <TextView
+                            android:id="@+id/chuanyi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="较冷"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/base_dropdown_list_title" />/>
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/live_yao_no" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingLeft="20dp"
+
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="感冒"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/biz_plugin_weather_otherday_climate_textsize" />
+                        />
+
+                        <TextView
+                            android:id="@+id/ganmao"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="极易发"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/base_dropdown_list_title" />/>
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/live_chenlian_no" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingLeft="20dp"
+
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="运动"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/biz_plugin_weather_otherday_climate_textsize" />
+                        />
+
+                        <TextView
+                            android:id="@+id/yundong"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="较不宜"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/base_dropdown_list_title" />/>
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/live_drive_no" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingLeft="20dp"
+
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="旅游"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/biz_plugin_weather_otherday_climate_textsize" />
+                        />
+
+                        <TextView
+                            android:id="@+id/lvyou"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:singleLine="true"
+                            android:text="适宜"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/base_dropdown_list_title" />/>
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
