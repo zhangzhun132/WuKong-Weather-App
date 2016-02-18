@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/oobut/dev/nr4bt/DialogPlusSample/dialogplus/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_overlay">#60000000</color>
+    <color name="card_shadow">#D4D4D4</color>
+    <color name="white_overlay">#40FFFFFF</color>
+    <!-- From: file:/Users/oobut/dev/nr4bt/DialogPlusSample/dialogplus/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="default_center_margin">16dp</dimen>
+    <!-- From: file:/Users/oobut/dev/nr4bt/DialogPlusSample/dialogplus/src/main/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="animation_default_duration">300</integer>
+</resources>

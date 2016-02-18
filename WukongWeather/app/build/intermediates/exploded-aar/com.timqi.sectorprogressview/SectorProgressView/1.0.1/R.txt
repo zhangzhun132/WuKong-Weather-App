@@ -1,0 +1,21 @@
+int attr bgColor 0x7f010000
+int attr fgColor 0x7f010001
+int attr fgColorEnd 0x7f010005
+int attr fgColorStart 0x7f010004
+int attr percent 0x7f010002
+int attr startAngle 0x7f010003
+int attr strokeWidth 0x7f010006
+int string action_settings 0x7f020000
+int string app_name 0x7f020001
+int[] styleable ColorfulRingProgressView { 0x7f010000, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006 }
+int styleable ColorfulRingProgressView_bgColor 0
+int styleable ColorfulRingProgressView_fgColorEnd 4
+int styleable ColorfulRingProgressView_fgColorStart 3
+int styleable ColorfulRingProgressView_percent 1
+int styleable ColorfulRingProgressView_startAngle 2
+int styleable ColorfulRingProgressView_strokeWidth 5
+int[] styleable SectorProgressView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 }
+int styleable SectorProgressView_bgColor 0
+int styleable SectorProgressView_fgColor 1
+int styleable SectorProgressView_percent 2
+int styleable SectorProgressView_startAngle 3

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="materialize-0.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.mikepenz/materialize/0.5.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.mikepenz/materialize/0.5.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialize/0.5.1/8ac90ff435097035103c7f8e4d52be47a4053380/materialize-0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
