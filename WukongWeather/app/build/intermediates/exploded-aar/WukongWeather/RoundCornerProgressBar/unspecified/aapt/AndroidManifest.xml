@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.akexorcist.roundcornerprogressbar"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="1"
+    android:versionName="unspecified" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="23" />
+
+</manifest>

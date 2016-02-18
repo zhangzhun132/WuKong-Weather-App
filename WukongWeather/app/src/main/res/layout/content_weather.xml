@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/content_weather"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/title"
+            android:background="#ff3ba4dc"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/biz_plugin_weather_paddingTopAndBottom"
+            android:paddingTop="10dp">
+
+            <include
+                android:id="@+id/weather_today"
+                layout="@layout/biz_plugin_weather_item_first"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:id="@+id/divider"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
+                android:src="#ff3ba4dc"
+                android:visibility="visible" />
+
+            <com.zhangzhun.way.FragmentViewPager.DisallowParentTouchViewPager
+                android:id="@+id/viewpager"
+                android:layout_width="fill_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="20dip"
+                android:overScrollMode="never"
+                android:paddingLeft="@dimen/biz_plugin_weather_paddingLeftAndRight"
+                android:paddingRight="@dimen/biz_plugin_weather_paddingLeftAndRight" />
+
+            <com.zhangzhun.way.indicator.CirclePageIndicator xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/indicator"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="5.0dip" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Weather1.iml" filepath="$PROJECT_DIR$/Weather1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoundCornerProgressBar/RoundCornerProgressBar.iml" filepath="$PROJECT_DIR$/RoundCornerProgressBar/RoundCornerProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SectorProgressView/SectorProgressView.iml" filepath="$PROJECT_DIR$/SectorProgressView/SectorProgressView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WukongWeather.iml" filepath="$PROJECT_DIR$/WukongWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptrlib/ptrlib.iml" filepath="$PROJECT_DIR$/ptrlib/ptrlib.iml" />
     </modules>
   </component>
 </project>

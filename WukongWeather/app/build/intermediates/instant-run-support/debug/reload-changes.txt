@@ -1,7 +1,0 @@
-G:\android_studio\Weather1\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\way\weather\MainActivity$2$override.class
-G:\android_studio\Weather1\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\way\weather\MainActivity$4$override.class
-G:\android_studio\Weather1\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\way\weather\MainActivity$override.class
-G:\android_studio\Weather1\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\way\weather\MainActivity$4$1$override.class
-G:\android_studio\Weather1\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\way\weather\MainActivity$3$override.class
-G:\android_studio\Weather1\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\way\weather\MainActivity$1$override.class
-G:\android_studio\Weather1\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\android\build\gradle\internal\incremental\AppPatchesLoaderImpl.class
