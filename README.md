@@ -6,6 +6,12 @@ version1.1
 1、简约
 2、精确预报6天天气
 3、查询空气质量
+
+![](Image/Screenshot_2015-12-17-19-45-16_com.way.weather.png) 
+![](Image/Screenshot_2015-12-17-19-45-20_com.way.weather.png) 
+![](Image/Screenshot_2015-12-17-19-45-25_com.way.weather.png) 
+![](Image/Screenshot_2015-12-17-19-55-07_com.way.weather.png) 
+
 ##所使用的第三方库
 ####1、com.mikepenz:materialdrawer 一个符合material design规范的抽屉式菜单栏
 ####2、com.android.support:design  可以使用sanckbar代替toast更好的显示效果
