@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="G:\android_studio\Weather1\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eabd8f322beeee382e1486df9302caa09f686745">
+        <dex dex="G:\android_studio\Weather1\app\build\intermediates\pre-dexed\debug\classes_a105f96d77959c84d2ae027c957d93b4e1180d59.jar" />
+    </item>
+
+</items>

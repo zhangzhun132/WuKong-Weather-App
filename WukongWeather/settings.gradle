@@ -1,1 +1,1 @@
-include ':app',':SectorProgressView',':RoundCornerProgressBar',':ptrlib'
+include ':app'
