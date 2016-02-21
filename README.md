@@ -14,8 +14,8 @@ version2.0版本
 
 
 ![](Image/GIF.gif)
-
-
+**代码中的UML类图如下**
+![](Image/uml.jpg)
 
 ##所使用的第三方库
 1.**com.mikepenz:materialdrawer 一个符合material design规范的抽屉式菜单栏** 
