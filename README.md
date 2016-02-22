@@ -21,7 +21,7 @@ version2.0版本
 ##所使用的第三方库
 1.**com.mikepenz:materialdrawer 一个符合material design规范的抽屉式菜单栏** 
 
-2.**com.android.support:design  可以使用sanckbar代替toast更好的显示效果** 
+2.**com.android.support:design  可以使用snackbar代替toast更好的显示效果** 
 
 3.**com.android.volley  谷歌推出的访问网络的库** 
 
