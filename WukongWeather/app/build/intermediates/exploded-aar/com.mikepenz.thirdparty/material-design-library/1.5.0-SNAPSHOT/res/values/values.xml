@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#00FF00</color>
+    <color name="thumbColor">#66aaaaaa</color>
+    <declare-styleable name="CustomAttributes"><attr format="color|reference" name="mdl_rippleColor"/><attr format="float" name="mdl_rippleSpeed"/><attr format="boolean" name="mdl_showNumberIndicator"/><attr format="integer" name="mdl_max"/><attr format="integer" name="mdl_min"/><attr format="integer" name="mdl_value"/><attr format="integer" name="mdl_progress"/><attr format="dimension" name="mdl_ringWidth"/><attr format="boolean" name="mdl_check"/><attr format="dimension" name="mdl_checkBoxSize"/><attr format="dimension" name="mdl_thumbSize"/><attr format="integer" name="mdl_iconDrawable"/><attr format="dimension" name="mdl_iconSize"/><attr format="boolean" name="mdl_animate"/><attr format="float" name="mdl_rippleBorderRadius"/><attr format="boolean" name="mdl_clickAfterRipple"/></declare-styleable>
+    <string name="app_name">MaterialDesign</string>
+</resources>

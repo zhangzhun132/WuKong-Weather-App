@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\round_corner_progress_icon.png",
+        "source": "D:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\round_corner_progress_icon.png"
+    },
+    {
         "merged": "G:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\round_corner_progress_icon.png",
         "source": "G:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\round_corner_progress_icon.png"
     }

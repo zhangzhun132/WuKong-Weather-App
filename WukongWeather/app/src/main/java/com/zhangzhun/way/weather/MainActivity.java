@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.ApplicationInfo;
 import android.database.Cursor;
@@ -21,6 +22,8 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.ViewPager;
+import android.support.v7.app.AlertDialog;
+import android.support.v7.app.AppCompatActivity;
 import android.util.TypedValue;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -50,6 +53,7 @@ import com.mikepenz.materialdrawer.model.ProfileDrawerItem;
 import com.mikepenz.materialdrawer.model.SecondaryDrawerItem;
 import com.mikepenz.materialdrawer.model.SectionDrawerItem;
 import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
+import com.mikepenz.materialdrawer.model.interfaces.IProfile;
 import com.mikepenz.materialdrawer.util.DrawerItemViewHelper;
 import com.zhangzhun.way.apapter.DrawerCityAdapter;
 import com.zhangzhun.way.apapter.FragmentAdapter;
@@ -62,9 +66,11 @@ import com.zhangzhun.way.db.DatabaseHelper;
 import com.zhangzhun.way.fragment.Fragment1;
 import com.zhangzhun.way.support.Constant;
 import com.zhangzhun.way.support.Setting;
+import com.zhangzhun.way.weather.about.AboutActivity;
 
-public class MainActivity extends FragmentActivity implements
+public class MainActivity extends AppCompatActivity implements
         Application.EventHandler, OnClickListener,Drawer.OnDrawerItemClickListener{
+
 
     private City onNewCity;
     private DatabaseHelper databaseHelper;
@@ -140,13 +146,21 @@ public class MainActivity extends FragmentActivity implements
         //main_viewpager.setPadding(main_viewpager.getPaddingLeft(), getStatusBarHeight(MainActivity.this), main_viewpager.getPaddingRight(), main_viewpager.getPaddingBottom());
 
 
+
         ImageView imageView = new ImageView(this);
         imageView.setImageResource(R.drawable.alert);
         header = new AccountHeaderBuilder().withActivity(this)
                 .withCompactStyle(false)
                 .withHeaderBackground(R.drawable.main_nav_header_bg)
                 .addProfiles(new ProfileDrawerItem().withIcon(R.drawable.ic_launcher).withEmail(getString(R.string.author_email)).withName(getString(R.string.author_name)))
-
+                .withOnAccountHeaderListener(new AccountHeader.OnAccountHeaderListener() {
+                    @Override
+                    public boolean onProfileChanged(View view, IProfile profile, boolean current) {
+                        Intent intent=new Intent(MainActivity.this, AboutActivity.class);
+                        startActivity(intent);
+                        return false;
+                    }
+                })
                 .build();
 
 
@@ -160,12 +174,7 @@ public class MainActivity extends FragmentActivity implements
                 .build();
         drawer.setOnDrawerItemClickListener(this);
         addAllMenuItem(databaseHelper.getReadableDatabase());
-//        drawer.addItemAtPosition(new SectionDrawerItem().withName("悟空天气"), Drawe);
-//        drawer.addItemAtPosition(new SecondaryDrawerItem().withName("设置"),48);
-//        drawer.addItemAtPosition(new SecondaryDrawerItem().withName("关于"),49);
-        drawer.addStickyFooterItem(new SectionDrawerItem().withName("悟空天气"));
-        drawer.addStickyFooterItem(new SectionDrawerItem().withName("设置"));
-        drawer.addStickyFooterItem(new SectionDrawerItem().withName("关于"));
+
 
     }
 
@@ -267,7 +276,29 @@ public class MainActivity extends FragmentActivity implements
             final int  cityNUMBER=cursor.getInt(numberID);
             final String cityNUMBER_STRING=cursor.getString(numberID);
             drawer.addItem(new PrimaryDrawerItem().withName(cityNAME).withIdentifier(cityNUMBER));
+            drawer.setOnDrawerItemLongClickListener(new Drawer.OnDrawerItemLongClickListener() {
+                @Override
+                public boolean onItemLongClick(View view, int position, IDrawerItem drawerItem) {
+                    final int p=position;
+                    AlertDialog.Builder deleteDialog=new AlertDialog.Builder(MainActivity.this);
+                    deleteDialog.setMessage("是否删除该城市？");
+                    deleteDialog.setPositiveButton("是", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+                            drawer.removeItemByPosition(p);
 
+                        }
+                    });
+                    deleteDialog.setNegativeButton("否", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+
+                        }
+                    });
+                    deleteDialog.show();
+                    return false;
+                }
+            });
         }
 
     }
@@ -277,6 +308,29 @@ public class MainActivity extends FragmentActivity implements
 
             final int  cityId=Integer.parseInt(citynum);
             drawer.addItem(new PrimaryDrawerItem().withName(cityname).withIdentifier(cityId));
+            drawer.setOnDrawerItemLongClickListener(new Drawer.OnDrawerItemLongClickListener() {
+                @Override
+                public boolean onItemLongClick(View view, int position, IDrawerItem drawerItem) {
+                    final int p=position;
+                    AlertDialog.Builder deleteDialog=new AlertDialog.Builder(getApplicationContext());
+                    deleteDialog.setMessage("是否删除该城市？");
+                    deleteDialog.setPositiveButton("是", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+                            drawer.removeItemByPosition(p);
+
+                        }
+                    });
+                    deleteDialog.setNegativeButton("否", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+
+                        }
+                    });
+                    deleteDialog.show();
+                    return false;
+                }
+            });
 
         }
     }
@@ -294,6 +348,7 @@ public class MainActivity extends FragmentActivity implements
         else{
             int itemId=drawerItem.getIdentifier();
             String itemIdString=Integer.toString(itemId);
+
             String itemNameString=queryIdData(databaseHelper.getReadableDatabase(), itemIdString);
             fragment1.setNewIntentCity(itemNameString,itemIdString);
             fragment1.setNewIntent();
@@ -302,4 +357,6 @@ public class MainActivity extends FragmentActivity implements
         }
         return false;
     }
+
+
 }

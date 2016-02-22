@@ -1,10 +1,18 @@
 [
     {
+        "merged": "D:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "D:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
         "merged": "G:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_classic_default_header.xml",
         "source": "G:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_classic_default_header.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_simple_loading.xml",
         "source": "G:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "D:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_classic_default_header.xml"
     }
 ]

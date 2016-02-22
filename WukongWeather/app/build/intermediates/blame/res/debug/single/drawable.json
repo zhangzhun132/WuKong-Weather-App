@@ -1,7 +1,11 @@
 [
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_top.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_top.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
@@ -10,6 +14,10 @@
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_list_selector.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\base_list_selector.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_left.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_left.9.png"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -32,8 +40,20 @@
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button.9.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kaixin_list_item_bg.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\kaixin_list_item_bg.xml"
+    },
+    {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_badge.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_badge.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -48,52 +68,36 @@
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_search_box_background.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\contact_search_box_background.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_normal.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\actionbar_btn_normal.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\actionbar_background.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\custom_button.xml"
-    },
-    {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_left.9.png",
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_left.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_top.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_top.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_city_update_press.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\title_city_update_press.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_check.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_box_cancel_btn_bg.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\search_box_cancel_btn_bg.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_right.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_area_press.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\hot_area_press.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_circle_mask.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_circle_mask.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
@@ -112,12 +116,16 @@
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_down.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\with_long_press_list_item_background.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\with_long_press_list_item_background.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
@@ -136,20 +144,24 @@
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_transparent.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_button_float.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_press.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\button_press.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -160,12 +172,256 @@
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_right.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_search_edittext_selector.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\base_search_edittext_selector.xml"
-    },
-    {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\actionbar_background.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\with_long_press_list_item_background.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\with_long_press_list_item_background.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_border.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\image_border.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_search_edittext_selector.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\base_search_edittext_selector.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_circle_mask.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_button.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\selector_bg_button.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_view_bg.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\text_view_bg.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_city_update_press.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\title_city_update_press.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_bottom.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_badge.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_badge.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kaixin_background.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\kaixin_background.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\actionbar_background.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_box_cancel_btn_bg.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\search_box_cancel_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_top.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_list_selector.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\base_list_selector.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_box_cancel_btn_bg.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\search_box_cancel_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\actionbar_btn.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_press_selector.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\share_press_selector.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_button.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\selector_bg_button.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_normal.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\actionbar_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_right.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_city.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\title_city.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_search_edittext_selector.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\base_search_edittext_selector.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -180,16 +436,24 @@
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_progress.xml"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_area_press.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\hot_area_press.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_float.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_bottom.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_shadow_bottom.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\with_long_press_list_item_background.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\with_long_press_list_item_background.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_view_bg.xml",
@@ -200,40 +464,24 @@
         "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\title_city.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_circle_mask.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\drawable\\material_drawer_circle_mask.xml"
-    },
-    {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\actionbar_btn.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_button.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\selector_bg_button.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_rectangle.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_press.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\button_press.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_press_selector.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\share_press_selector.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_press.xml",
+        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable\\button_press.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",

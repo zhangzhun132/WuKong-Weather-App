@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="debug"><source path="G:\android_studio\WukongWeather\RoundCornerProgressBar\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="G:\android_studio\WukongWeather\RoundCornerProgressBar\src\androidTest\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="debug"><source path="D:\android_studio\WukongWeather\RoundCornerProgressBar\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\android_studio\WukongWeather\RoundCornerProgressBar\src\androidTest\assets"/></dataSet></merger>

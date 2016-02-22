@@ -8,36 +8,36 @@ package com.orhanobut.dialogplus;
 
 public final class R {
 	public static final class anim {
-		public static final int fade_in_center = 0x7f050010;
-		public static final int fade_out_center = 0x7f050011;
-		public static final int slide_in_bottom = 0x7f050013;
-		public static final int slide_in_top = 0x7f050014;
-		public static final int slide_out_bottom = 0x7f050015;
-		public static final int slide_out_top = 0x7f050016;
+		public static final int fade_in_center = 0x7f050015;
+		public static final int fade_out_center = 0x7f050016;
+		public static final int slide_in_bottom = 0x7f050018;
+		public static final int slide_in_top = 0x7f050019;
+		public static final int slide_out_bottom = 0x7f05001a;
+		public static final int slide_out_top = 0x7f05001b;
 	}
 	public static final class color {
 		public static final int black_overlay = 0x7f0c008c;
 		public static final int card_shadow = 0x7f0c0095;
-		public static final int white_overlay = 0x7f0c027a;
+		public static final int white_overlay = 0x7f0c0286;
 	}
 	public static final class dimen {
-		public static final int default_center_margin = 0x7f090153;
+		public static final int default_center_margin = 0x7f090161;
 	}
 	public static final class id {
-		public static final int content_container = 0x7f0d005b;
-		public static final int footer_container = 0x7f0d00a8;
-		public static final int header_container = 0x7f0d00a6;
-		public static final int list = 0x7f0d00a7;
-		public static final int outmost_container = 0x7f0d005a;
-		public static final int view_container = 0x7f0d00a9;
+		public static final int content_container = 0x7f0d0077;
+		public static final int footer_container = 0x7f0d00d3;
+		public static final int header_container = 0x7f0d00d1;
+		public static final int list = 0x7f0d00d2;
+		public static final int outmost_container = 0x7f0d0076;
+		public static final int view_container = 0x7f0d00d4;
 	}
 	public static final class integer {
-		public static final int animation_default_duration = 0x7f0b0003;
+		public static final int animation_default_duration = 0x7f0b0004;
 	}
 	public static final class layout {
-		public static final int base_container = 0x7f04001a;
-		public static final int dialog_grid = 0x7f04002d;
-		public static final int dialog_list = 0x7f04002e;
-		public static final int dialog_view = 0x7f04002f;
+		public static final int base_container = 0x7f04001b;
+		public static final int dialog_grid = 0x7f04003b;
+		public static final int dialog_list = 0x7f04003c;
+		public static final int dialog_view = 0x7f04003d;
 	}
 }

@@ -10,18 +10,18 @@ public final class R {
 	public static final class attr {
 		public static final int bgColor = 0x7f010000;
 		public static final int fgColor = 0x7f010002;
-		public static final int fgColorEnd = 0x7f010035;
-		public static final int fgColorStart = 0x7f010034;
+		public static final int fgColorEnd = 0x7f010047;
+		public static final int fgColorStart = 0x7f010046;
 		public static final int percent = 0x7f010005;
 		public static final int startAngle = 0x7f010006;
-		public static final int strokeWidth = 0x7f010036;
+		public static final int strokeWidth = 0x7f010048;
 	}
 	public static final class string {
-		public static final int action_settings = 0x7f07001d;
-		public static final int app_name = 0x7f07001f;
+		public static final int action_settings = 0x7f07001e;
+		public static final int app_name = 0x7f070020;
 	}
 	public static final class styleable {
-		public static final int[] ColorfulRingProgressView = { 0x7f010000, 0x7f010005, 0x7f010006, 0x7f010034, 0x7f010035, 0x7f010036 };
+		public static final int[] ColorfulRingProgressView = { 0x7f010000, 0x7f010005, 0x7f010006, 0x7f010046, 0x7f010047, 0x7f010048 };
 		public static final int ColorfulRingProgressView_bgColor = 0;
 		public static final int ColorfulRingProgressView_fgColorEnd = 4;
 		public static final int ColorfulRingProgressView_fgColorStart = 3;

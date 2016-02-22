@@ -2,5 +2,9 @@
     {
         "merged": "G:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ptr_rotate_arrow.png",
         "source": "G:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ptr_rotate_arrow.png",
+        "source": "D:\\android_studio\\WukongWeather\\ptrlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ptr_rotate_arrow.png"
     }
 ]

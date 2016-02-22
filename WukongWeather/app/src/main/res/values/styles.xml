@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Application theme. -->
-    <style name="AppTheme" parent="@android:style/Theme.Black.NoTitleBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
     </style>
 
     <style name="base_listview_style" parent="@android:style/Widget.ListView">
@@ -37,7 +37,23 @@
         <item name="android:minWidth">45.0dip</item>
         <item name="android:minHeight">45.0dip</item>
     </style>
-
+    <style name="ui_parent_Wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
     <style name="ActionBarProgressBar" parent="@style/title_update_progressbar_style"></style>
+    <style name="city_hot_header" parent="@style/ui_parent_Wrap">
+        <item name="android:textSize">@dimen/city_list_text_size</item>
+        <item name="android:textColor">@color/city_item_letter_color</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
 
+    <style name="cityLocatingProgressStyle">
+        <item name="android:maxWidth">16.0dip</item>
+        <item name="android:maxHeight">24.0dip</item>
+        <item name="android:indeterminateDrawable">@anim/city_locating_anim</item>
+        <item name="android:minWidth">16.0dip</item>
+        <item name="android:minHeight">24.0dip</item>
+    </style>
 </resources>

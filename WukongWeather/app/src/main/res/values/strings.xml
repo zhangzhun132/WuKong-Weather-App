@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string name="city_hotcity_curlocationcity_text">定位城市</string>
+    <string name="locating">定位中</string>
     <string name="author_name">zhangzhun</string>
     <string name="author_email">460093533@qq.com</string>
     <string name="header_title">定位失败</string>
@@ -161,7 +162,7 @@
     <string name="biz_plugin_weather_none">未同步</string>
     <string name="biz_plugin_weather_actionbar_title">%s天气</string>
     <string name="biz_plugin_weather_no_data_tip">无法获取天气信息</string>
-     <string name="biz_plugin_pm2_5_no_data_tip">无法获取pm2.5信息</string>
+    <string name="biz_plugin_pm2_5_no_data_tip">无法获取pm2.5信息</string>
     <string name="biz_plugin_weather_humidity">湿度:%s</string>
     <string name="biz_plugin_weather_selectcity_title">选择城市</string>
     <string name="biz_plugin_weather_default_city">北京</string>
@@ -429,5 +430,9 @@
     <string name="one">one_fragment</string>
     <string name="two">two_fragment</string>
     <string name="app_widget_no_weather">N/A\nN/A</string>
+    <string name="about">关于</string>
+    <string name="notif_info_copied">已复制到剪切版</string>
+    <string name="text_share_wukong">分享</string>
+    <string name="text_share_info">欢迎使用悟空天气，这是一款无广告，简约的天气App，数据来自开放平台，悟空天气面向开源。</string>
 
 </resources>

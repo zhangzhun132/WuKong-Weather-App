@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<color name="white">#ffffffff</color>
+    <color name="city_item_text_color">#ff5c5c5c</color>
+    <color name="city_search_bg">#fff2f2f2</color>
+    <dimen name="city_hot_margin_top">20.0dip</dimen>
+    <dimen name="city_list_margin_right_dimen">40.0dip</dimen>
+    <dimen name="city_hot_margin_bottom">10.0dip</dimen>
+    <color name="city_item_letter_color">#ff8c8c8c</color>
+
+    <color name="white">#ffffffff</color>
     <color name="actionbar_separator">#A71717</color>
     <color name="actionbar_title">#FFFFFF</color>
     <color name="actionbar_background_start">#CD2626</color>

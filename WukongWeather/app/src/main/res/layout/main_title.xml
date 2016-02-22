@@ -16,6 +16,7 @@
             android:id="@+id/menu_city"
             android:layout_width="35.0dip"
             android:layout_height="35.0dip"
+            android:layout_marginLeft="10dp"
             android:layout_alignParentLeft="true"
             android:layout_marginTop="5dp"
             android:src="@drawable/main_menu">
@@ -28,6 +29,7 @@
             android:layout_height="35.0dip"
             android:layout_alignParentRight="true"
             android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
             android:src="@drawable/main_share">
 
         </ImageView>

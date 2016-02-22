@@ -4,8 +4,20 @@
         "source": "G:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_round_corner_progress_bar.xml"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_icon_round_corner_progress_bar.xml",
+        "source": "D:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_icon_round_corner_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_round_corner_progress_bar.xml",
+        "source": "D:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_round_corner_progress_bar.xml"
+    },
+    {
         "merged": "G:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_icon_round_corner_progress_bar.xml",
         "source": "G:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_icon_round_corner_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_text_round_corner_progress_bar.xml",
+        "source": "D:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_text_round_corner_progress_bar.xml"
     },
     {
         "merged": "G:\\android_studio\\WukongWeather\\RoundCornerProgressBar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_text_round_corner_progress_bar.xml",

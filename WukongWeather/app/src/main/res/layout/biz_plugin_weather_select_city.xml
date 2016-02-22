@@ -67,11 +67,18 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             layout="@layout/search_box" />
+        <include
+            android:id="@+id/city_locate"
+            android:layout_height="40dp"
+            android:layout_width="match_parent"
+            android:layout_below="@id/search_container"
+            layout="@layout/city_locate_layout">
+        </include>
 
         <FrameLayout
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:layout_below="@id/search_container"
+            android:layout_below="@id/city_locate"
             android:background="@android:color/white" >
 
             <RelativeLayout

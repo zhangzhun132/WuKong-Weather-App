@@ -1,6 +1,14 @@
 [
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\xml\\about.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\xml\\about.xml"
+    },
+    {
         "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\xml\\weather_widget_4x2.xml",
         "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\xml\\weather_widget_4x2.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\xml\\weather_widget_4x2.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\xml\\weather_widget_4x2.xml"
     }
 ]

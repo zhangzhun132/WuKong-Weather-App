@@ -117,5 +117,124 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "D:\\android_studio\\WukongWeather\\SectorProgressView\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "D:\\android_studio\\WukongWeather\\SectorProgressView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 41,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "D:\\android_studio\\WukongWeather\\SectorProgressView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 41,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 41,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "D:\\android_studio\\WukongWeather\\SectorProgressView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 41,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 44,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "D:\\android_studio\\WukongWeather\\SectorProgressView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 44,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 52,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "D:\\android_studio\\WukongWeather\\SectorProgressView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 52,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 44,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "D:\\android_studio\\WukongWeather\\SectorProgressView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 44,
+                        "endOffset": 752
+                    }
+                }
+            }
+        ]
     }
 ]

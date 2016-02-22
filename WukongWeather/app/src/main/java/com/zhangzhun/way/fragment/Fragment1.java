@@ -1,5 +1,6 @@
 package com.zhangzhun.way.fragment;
 
+import android.animation.ObjectAnimator;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -14,11 +15,13 @@ import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.LinearInterpolator;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar;
 import com.baidu.location.BDLocation;
 import com.baidu.location.BDLocationListener;
 import com.baidu.location.LocationClient;
@@ -29,6 +32,7 @@ import com.orhanobut.dialogplus.DialogPlus;
 import com.orhanobut.dialogplus.Holder;
 import com.orhanobut.dialogplus.OnClickListener;
 import com.orhanobut.dialogplus.ViewHolder;
+import com.timqi.sectorprogressview.ColorfulRingProgressView;
 import com.zhangzhun.way.FragmentViewPager.DisallowParentTouchViewPager;
 import com.zhangzhun.way.apapter.WeatherPagerAdapter;
 import com.zhangzhun.way.app.Application;
@@ -64,6 +68,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
@@ -80,6 +85,8 @@ import in.srain.cube.views.ptr.util.PtrLocalDisplay;
  */
 public class Fragment1 extends Fragment implements Application.EventHandler, View.OnClickListener {
 
+    private ImageView share_img;
+    private ImageView menu_img;
     public static final String JUHEAPIKEY = "17c6e53fd6b88d35e660f424f780355a";
     public static final String HEWEATHERAPI = "&key=7511d182e71648ba8cfffb2036849795";
     public static final String UPDATE_WIDGET_WEATHER_ACTION = "com.zhangzhun.way.action.update_weather";
@@ -134,6 +141,37 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
     private RentalsSunHeaderView header;
     private DisallowParentTouchViewPager mViewPager;
     private List<Fragment> fragments;
+
+
+
+    private boolean isVisible;
+    private TextView pmNumber;
+    private boolean isPrepared;
+    private ColorfulRingProgressView colorfulRingProgressView;
+    private Weatherinfo fragment2_weatherinfo;
+    private Pm2d5 fragment2_pm;
+    private int pm2d5_number;
+
+    private String tianqi;
+    private String ganmao;
+    private String xiche;
+    private String yundong;
+    private String chuanyi;
+    private String lvyou;
+
+    private TextView textView_tianqi;
+    private TextView textview_xiche;
+    private TextView textView_chuanyi;
+    private TextView textView_ganmao;
+    private TextView textView_yundong;
+    private TextView textView_lvyou;
+
+
+    private RoundCornerProgressBar progressOne;
+    private RoundCornerProgressBar progressTwo;
+
+    private TextView progress_text1;
+    private TextView progress_text2;
     private Handler mHandler = new Handler() {
         public void handleMessage(android.os.Message msg) {
             switch (msg.what) {
@@ -206,7 +244,7 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
 
         BDLocationListener mLocationListener = new BDLocationListener() {
 
-            @Override
+
             public void onReceivePoi(BDLocation arg0) {
                 // do nothing
             }
@@ -252,6 +290,26 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
                 mHandler.sendMessage(msg);// 更新天气
             }
         };
+        share_img= (ImageView) mainView.findViewById(R.id.share_image);
+        share_img.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+
+                Intent sharingIntent = new Intent(Intent.ACTION_SEND);
+                sharingIntent.setType("text/plain");
+                sharingIntent.putExtra(Intent.EXTRA_SUBJECT, "Subject Here");
+                sharingIntent.putExtra(Intent.EXTRA_TEXT, getString(R.string.text_share_info));
+                startActivity(Intent.createChooser(sharingIntent, getString(R.string.text_share_wukong)));
+            }
+        });
+        menu_img= (ImageView) mainView.findViewById(R.id.menu_city);
+        menu_img.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                MainActivity.drawer.openDrawer();
+            }
+        });
         Application.mListeners.add(this);
         mApplication = Application.getInstance();
         mSpUtil = mApplication.getSharePreferenceUtil();
@@ -323,6 +381,21 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
         climateTv = (TextView) mainView.findViewById(R.id.climate);
         windTv = (TextView) mainView.findViewById(R.id.wind);
         weatherImg = (ImageView) mainView.findViewById(R.id.weather_img);
+        colorfulRingProgressView= (ColorfulRingProgressView) mainView.findViewById(R.id.sectorProgressView);
+        progress_text1= (TextView) mainView.findViewById(R.id.text_aqi);
+        progress_text2= (TextView) mainView.findViewById(R.id.text_no2);
+        progressOne= (RoundCornerProgressBar) mainView.findViewById(R.id.progress_one);
+
+        progressTwo= (RoundCornerProgressBar) mainView.findViewById(R.id.progress_two);
+
+        pmNumber= (TextView) mainView.findViewById(R.id.pm_number);
+        textView_chuanyi= (TextView) mainView.findViewById(R.id.chuanyi);
+        textview_xiche= (TextView) mainView.findViewById(R.id.xiche);
+        textView_tianqi= (TextView) mainView.findViewById(R.id.tianqi);
+        textView_ganmao= (TextView) mainView.findViewById(R.id.ganmao);
+        textView_yundong= (TextView) mainView.findViewById(R.id.yundong);
+        textView_lvyou= (TextView) mainView.findViewById(R.id.lvyou);
+        colorfulRingProgressView.setOnClickListener(this);
         fragments = new ArrayList<Fragment>();
         fragments.add(new FirstWeatherFragment());
         fragments.add(new SecondWeatherFragment());
@@ -381,7 +454,6 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
                 getWeatherInfo(isRefresh);
 
                 getPm2d5Info(isRefresh);
-
 
                 if (mCurWeatherinfo != null)
                     L.i(mCurWeatherinfo.toString());
@@ -518,6 +590,7 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
         // pmResult = getInfoFromFile(PM2D5_INFO_FILENAME);
 
         parsePm2d5Info(urlPm2d5, pmResult, true);
+
     }
 
     // 请求服务器，获取返回数据
@@ -551,7 +624,7 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
      */
     private void updatePm2d5Info() {
         if (mCurPm2d5 != null) {
-
+            lazyLoad();
             mApplication.setmCurPm2d5(mCurPm2d5);
             pmQualityTv.setText(mCurPm2d5.getQuality());
             pmDataTv.setText(mCurPm2d5.getPm());
@@ -703,7 +776,7 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
         StringBuffer sbf = new StringBuffer();
         try {
             URL url = new URL(httpUrl);
-            HttpsURLConnection connection = (HttpsURLConnection) url.openConnection();
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.setRequestMethod("GET");
             connection.connect();
             InputStream is = connection.getInputStream();
@@ -721,6 +794,49 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
         return result;
     }
 
+    protected  void lazyLoad(){
 
+        fragment2_pm=((MainActivity)(getActivity())).getFragment_pm();
+        fragment2_weatherinfo=((MainActivity)getActivity()).getFragment_weatherinfo();
+        if (fragment2_pm!=null){
+            pm2d5_number=Integer.parseInt(fragment2_pm.getPm());
+
+
+
+        }
+        if (fragment2_weatherinfo!=null){
+            System.out.println("+++++++"+fragment2_weatherinfo);
+            tianqi=fragment2_weatherinfo.getTianqi();
+            ganmao=fragment2_weatherinfo.getGanmao();
+            xiche=fragment2_weatherinfo.getXiche();
+            yundong=fragment2_weatherinfo.getYundong();
+            chuanyi=fragment2_weatherinfo.getChuanyi();
+            lvyou=fragment2_weatherinfo.getLvyou();
+            textView_tianqi.setText(tianqi);
+            textView_ganmao.setText(ganmao);
+            textview_xiche.setText(xiche);
+            textView_yundong.setText(yundong);
+            textView_chuanyi.setText(chuanyi);
+            textView_lvyou.setText(lvyou);
+
+            int wencha_max=Integer.parseInt(fragment2_weatherinfo.getTmpMax());
+            int wencha_min=Integer.parseInt(fragment2_weatherinfo.getTmpMin());
+            int wencha=wencha_max-wencha_min;
+            int shidu=Integer.parseInt(fragment2_weatherinfo.getHum());
+            progress_text1.setText("湿度:   "+shidu);
+            progress_text2.setText("温差:   "+wencha);
+            progressOne.setProgress(shidu- 20);
+            progressTwo.setProgress(wencha + 20);
+        }
+        pmNumber.setText(pm2d5_number+"");
+        colorfulRingProgressView.setPercent(pm2d5_number);
+        ObjectAnimator anim = ObjectAnimator.ofFloat(colorfulRingProgressView, "percent",
+                0, (int)((colorfulRingProgressView).getPercent()*0.4));
+        anim.setInterpolator(new LinearInterpolator());
+        anim.setDuration(1000);
+        anim.start();
+        //填充各控件的数据
+
+    };
 
 }

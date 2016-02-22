@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/app_name">
+        <Preference
+            android:key="app_intro"
+            android:title="应用简介"/>
+        <Preference
+            android:title="当前版本"
+            android:summary="悟空天气2.0"/>
+        <Preference
+            android:key="check_update"
+            android:title="检查更新"/>
+
+        <Preference
+            android:key="star_project"
+            android:title="去点个赞"
+            android:summary="去https://github.com/zhangzhun132给个star吧"/>
+        <Preference
+            android:key="share"
+            android:title="分享该应用" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="作者"
+        android:summary="@string/author_name">
+        <Preference
+            android:key="blog"
+            android:title="博客"
+            android:summary="http://blog.csdn.net/zzzhangzhun" />
+        <Preference
+            android:key="github"
+            android:title="作者GitHub"
+            android:summary="https://github.com/zhangzhun132"/>
+        <Preference
+            android:key="email"
+            android:title="邮箱"
+            android:summary="@string/author_email" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="版权">
+        <Preference
+            android:title="数据"
+            android:summary="所有数据均来自公开API，版权属于原作者" />
+        <Preference
+            android:title="注意"
+            android:summary="此应用禁止用于商业目的"/>
+        <Preference
+            android:title="License"
+            android:summary="   WuKong-Weather is free software: you can redistribute it and/or modify it under the terms of the GNU General
+Public License as published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.\n
+    WuKong-Weather is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
