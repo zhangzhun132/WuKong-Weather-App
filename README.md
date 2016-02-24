@@ -27,8 +27,31 @@ version2.0版本
 
 3.**百度定位  可以定位自己所在位置，该应用默认关闭gps** 
 
-4.**自己编写的自定义View**----圆形进度条，来表示Pm2.5的值
+4.**自己编写的自定义View**----圆形进度条，来表示Pm2.5的值 
+ 
+  
+  
+adapter—存放菜单城市列表，城市数据库，Fragment的包。 
 
+重点内容 2. App—存放自定义Appliation。 
+
+bean—存放Item，如City，Pm2.5信息，简单天气状况，详细天气状况，及天气预报。 
+
+db—-使用SQLiteOpenHelper及SQLiteDatabase类的包。 
+
+Fragment—各种用到的Fragment。 
+
+fragmentViewPager—-滑动式5天天气预报，较好的操作效果。 
+
+indicator—-fragment工具类。 
+
+support—–工具类 
+
+ui—-下拉刷新包 
+
+util—-工具类 
+
+weather—–主activity包。
 
 
 欢迎各位随时与我交流：邮箱---460093533@qq.com
