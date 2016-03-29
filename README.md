@@ -18,7 +18,7 @@ Version2.0版本
  **代码中的UML类图如下**
 ![](Image/uml.jpg)
 
-##APP使用的第三方库
+##APP所使用的第三方库
 1.**com.mikepenz:materialdrawer 一个符合material design规范的抽屉式菜单栏** 
 
 2.**com.android.support:design  可以使用snackbar代替toast更好的显示效果** 
