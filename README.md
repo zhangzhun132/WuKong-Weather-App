@@ -55,4 +55,4 @@ weather—–主activity包。
 
 
 欢迎各位随时与我交流：邮箱---460093533@qq.com
-悟空天气项目的详细介绍地址：[CSDN博客](http://blog.csdn.net/zzzhangzhun/)，喜欢的朋友点下star吧，哈哈。
+悟空天气项目的详细介绍地址：[CSDN博客](http://blog.csdn.net/zzzhangzhun/)，喜欢的朋友点下star吧。
