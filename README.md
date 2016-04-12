@@ -10,7 +10,7 @@ Version2.0版本
 
 3.**查询空气质量** 
 
-4.采用**Matrial Design**风格的侧滑菜单，以及support v7包中的控件 
+4.采用**Matrial Design**风格的侧滑菜单，及support v7包中的控件 
 
 
 ![](Image/GIF.gif)
