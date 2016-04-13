@@ -15,7 +15,7 @@ Version2.0版本
 
 ![](Image/GIF.gif)
  
- **代码中的UML类图如下**
+ **代码中的UML如下**
 ![](Image/uml.jpg)
 
 ##所使用的第三方库
