@@ -31,7 +31,7 @@
  
   
   
-adapter—存放菜单城市列表，城市数据库，Fragment的包。 
+Adapter—存放菜单城市列表，城市数据库，Fragment的包。 
 
 重点内容 2. App—存放自定义Appliation。 
 
