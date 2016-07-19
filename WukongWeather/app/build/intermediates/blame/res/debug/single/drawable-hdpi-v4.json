@@ -1,39 +1,43 @@
 [
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_selector_pressed.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_selector_pressed.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w30.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w30.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_share.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\main_share.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask_1.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\mask_1.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw2.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw2.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_press.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\button_bg_press.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\child_1.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\child_1.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_news_column_subscribe_search_icon.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_news_column_subscribe_search_icon.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\main_menu.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_list_grain_bg_pressed.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\global_list_grain_bg_pressed.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\alert.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-hdpi-v4\\ic_launcher.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_app_default.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_app_default.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w14.png",
@@ -44,32 +48,44 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\child_2.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\child_2.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locate_failed.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locate_failed.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sun.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\sun.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\child_2.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\child_2.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w31.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w31.png"
     },
     {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_pm.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_pm.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outdoor_1.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\outdoor_1.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_pm.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_pm.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w9.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w9.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_bg2.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\loading_bg2.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_camera_hide.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\switch_camera_hide.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w15.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w15.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w0.png",
@@ -80,28 +96,24 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw4.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw4.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_aqi_default.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_aqi_default.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w30.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w30.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw1.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw1.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_xiche_no.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_xiche_no.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\behind_add_city.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\behind_add_city.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask_2.png",
@@ -112,16 +124,8 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_selector_disabled.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw1.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw1.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\time_mask_pt.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\time_mask_pt.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_btn_pressed.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\actionbar_btn_pressed.9.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
@@ -132,6 +136,10 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sun.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\sun.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -140,12 +148,12 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_weather.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_search_edittext_bg_focused.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_search_edittext_bg_focused.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_press.9.png",
@@ -156,32 +164,28 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_search_edittext_bg.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\behind_add_city.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\behind_add_city.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w6.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w6.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_pmw.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_pmw.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_drive_no.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_drive_no.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outdoor_2.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\outdoor_2.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask_3.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\mask_3.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w7.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w7.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jayne_hat.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\jayne_hat.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w1.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w1.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_selector_pressed.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_selector_pressed.9.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
@@ -192,52 +196,48 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_aqi.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw3.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw3.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w29.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w29.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outdoor_2.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\outdoor_2.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w32.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w32.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\child_3.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\child_3.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_4x2_grey.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\widget_4x2_grey.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_selectcity_index_bg.9.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_selectcity_index_bg.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_window_2.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\open_window_2.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w13.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w13.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_am.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_am.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_xiche_no.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_xiche_no.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw6.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw6.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focused.png",
@@ -260,684 +260,12 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_weather_default.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_weather_default.png"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w35.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w35.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_search_edittext_bg.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_search_edittext_bg.9.png"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw0.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw0.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w29.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w29.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w16.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w16.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w10.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w10.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\time_mask_pt.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\time_mask_pt.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw8.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw8.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w17.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w17.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w3.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w3.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w36.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w36.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w19.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w19.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_app_default.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_app_default.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w5.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w5.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_selectcity_empty.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_selectcity_empty.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_share.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\main_share.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w20.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w20.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_press.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\button_bg_press.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_chenlian_no.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_chenlian_no.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w4.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w4.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yifu_no.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yifu_no.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w2.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w2.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_san_no.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_san_no.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_aqi_default.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_aqi_default.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w18.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w18.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\na.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\na.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_chenlian_no.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_chenlian_no.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buildings.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\buildings.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_sunny.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_sunny.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w20.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w20.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_amw.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_amw.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_app.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_app.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sprite_check.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable-hdpi-v4\\sprite_check.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw7.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw7.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_divider.jpg",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_divider.jpg"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locate_success.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locate_success.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w17.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w17.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_loading_large_icon.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_loading_large_icon.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w1.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w1.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_scrollbar_handle.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_scrollbar_handle.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_window_2.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\open_window_2.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_press.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\btn_press.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw7.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw7.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_weather_default.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_weather_default.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yanjing_yes.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yanjing_yes.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sns_title_bg.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\sns_title_bg.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locating_frame2.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locating_frame2.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w6.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w6.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yanjing_yes.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yanjing_yes.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_list_grain_bg_pressed.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\global_list_grain_bg_pressed.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_window_3.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\open_window_3.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_solid_custom_blue_inverse_holo.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_custom_blue_inverse_holo.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yanjing_no.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yanjing_no.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w31.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w31.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\child_1.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\child_1.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment1.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\fragment1.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locating_frame1.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locating_frame1.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\separator_bg.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\separator_bg.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_weather.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_weather.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\child_2.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\child_2.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_divider_drawable.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_divider_drawable.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w21.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w21.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w18.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w18.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask_3.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\mask_3.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw2.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw2.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w8.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w8.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_loading_small_icon.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_loading_small_icon.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw8.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw8.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_city.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\title_city.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_indicator_popup_bg.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_indicator_popup_bg.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w21.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w21.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w30.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w30.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask_1.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\mask_1.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_sunny.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_sunny.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_bg_press.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\button_bg_press.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw0.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw0.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_divider_drawable.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_divider_drawable.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\child_1.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\child_1.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_bg.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\global_bg.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_list_grain_bg_pressed.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\global_list_grain_bg_pressed.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\separator_bg.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\separator_bg.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_pm.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_pm.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_window_1.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\open_window_1.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_app_default.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_app_default.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locate_failed.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locate_failed.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outdoor_1.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\outdoor_1.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_bg2.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\loading_bg2.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w15.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w15.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_city.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\title_city.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_aqi_default.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_aqi_default.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw1.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw1.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_selectcity_index_bg.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_selectcity_index_bg.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nofocused.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nofocused.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\behind_add_city.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\behind_add_city.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_nav_header_bg.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\main_nav_header_bg.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_btn_pressed.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\actionbar_btn_pressed.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w7.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w7.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_window_3.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\open_window_3.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sun.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\sun.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_app.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_app.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w14.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w14.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_pmw.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_pmw.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w36.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w36.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_selector_disabled.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_selector_disabled.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w0.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w0.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yifu_no.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yifu_no.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask_2.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\mask_2.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_pmw.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_pmw.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w1.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w1.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_selector_pressed.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_selector_pressed.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yanjing_no.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yanjing_no.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w19.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w19.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outdoor_3.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\outdoor_3.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_divider.jpg",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_divider.jpg"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w29.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w29.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_4x2_grey.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\widget_4x2_grey.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_aqi.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_aqi.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focused.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\focused.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w10.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w10.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_am.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_am.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_san_no.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_san_no.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w32.png",
@@ -956,52 +284,52 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w13.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-hdpi-v4\\ic_launcher.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w16.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w16.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jayne_hat.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\jayne_hat.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w10.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w10.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\time_mask_pt.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\time_mask_pt.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\child_3.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\child_3.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw8.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw8.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_camera_hide.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\switch_camera_hide.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w36.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w36.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w19.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w19.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locating_frame3.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locating_frame3.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\btn_default.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sns_title_bg.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\sns_title_bg.png"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w34.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w34.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
@@ -1012,44 +340,64 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\na.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w5.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w5.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_selectcity_empty.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_selectcity_empty.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\main_menu.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_selectcity_empty.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_selectcity_empty.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_share.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\main_share.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yao_no.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yao_no.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_chenlian_no.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_chenlian_no.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w16.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w16.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w4.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w4.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_loading_small_icon.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_loading_small_icon.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yifu_no.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yifu_no.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_btn_pressed.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\actionbar_btn_pressed.9.png"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_san_no.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_san_no.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_window_1.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\open_window_1.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw6.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw6.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w18.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w18.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nofocused.png",
@@ -1060,36 +408,36 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_hot_grid_item.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w35.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w35.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_sunny.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_sunny.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_nav_header_bg.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\main_nav_header_bg.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w20.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w20.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw4.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw4.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_amw.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_amw.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_bg.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\global_bg.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_icon_background_pressed.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_icon_background_pressed.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_app.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_app.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sky.png",
@@ -1100,36 +448,80 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\alert.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sprite_check.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\drawable-hdpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locate_success.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locate_success.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_divider.jpg",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_divider.jpg"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w17.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w17.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_loading_large_icon.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_loading_large_icon.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_scrollbar_handle.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_scrollbar_handle.9.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\btn_default.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w33.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w33.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_window_2.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\open_window_2.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_news_column_subscribe_search_icon.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_news_column_subscribe_search_icon.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw7.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw7.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sky.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\sky.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_weather_default.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nav_weather_default.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yanjing_yes.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yanjing_yes.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sns_title_bg.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\sns_title_bg.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w3.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w3.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locating_frame2.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locating_frame2.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w4.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w4.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w6.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w6.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_window_3.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\open_window_3.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_solid_custom_blue_inverse_holo.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_custom_blue_inverse_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yanjing_no.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_yanjing_no.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
@@ -1140,14 +532,6 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_4x2_grey.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\widget_4x2_grey.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_solid_custom_blue_inverse_holo.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_custom_blue_inverse_holo.9.png"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w33.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w33.png"
     },
@@ -1156,32 +540,28 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\outdoor_3.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city_locating_frame1.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\city_locating_frame1.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w2.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w2.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_amw.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_amw.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_bg2.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\loading_bg2.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w8.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w8.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\separator_bg.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\separator_bg.9.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w34.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w34.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_drive_no.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\live_drive_no.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment1.png",
@@ -1196,12 +576,16 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw5.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw5.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_indicator_popup_bg.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_indicator_popup_bg.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_divider_drawable.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_divider_drawable.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_yao_no.png",
@@ -1212,44 +596,24 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_scrollbar_handle.9.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_list_scrollbar_handle.9.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outdoor_1.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\outdoor_1.png"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask_1.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\mask_1.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w5.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w5.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w15.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w15.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_loading_large_icon.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_loading_large_icon.png"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sprite_check.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-hdpi-v4\\sprite_check.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mask_3.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\mask_3.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_search_edittext_bg_focused.9.png",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_search_edittext_bg_focused.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nw5.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\nw5.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_loading_small_icon.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_loading_small_icon.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_city.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\title_city.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
@@ -1260,12 +624,20 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_normal.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_am.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w_am.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_normal.png",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_normal.png"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biz_plugin_weather_indicator_popup_bg.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\biz_plugin_weather_indicator_popup_bg.png"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w21.png",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\drawable-hdpi\\w21.png"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buildings.png",

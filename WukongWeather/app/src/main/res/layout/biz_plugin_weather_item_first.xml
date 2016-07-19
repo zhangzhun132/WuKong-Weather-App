@@ -77,7 +77,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:singleLine="true"
-                    android:text="N/A"
+                    android:text="100"
                     android:textColor="@android:color/white"
                     android:textSize="@dimen/biz_plugin_weather_temperature_textsize" />
             </LinearLayout>
@@ -96,7 +96,7 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:singleLine="true"
-            android:text="N/A"
+            android:text="一般"
             android:textColor="@android:color/white"
             android:textSize="@dimen/biz_plugin_weather_climate_textsize" />
     </LinearLayout>

@@ -81,7 +81,7 @@
                     app:rcBackgroundColor="#ff3ba4dc"
                     app:rcBackgroundPadding="2dp"
                     app:rcMax="100"
-                    app:rcProgress="90"
+                    app:rcProgress="30"
                     app:rcProgressColor="@color/custom_progress_orange_header"
                     app:rcRadius="20dp" />
 
@@ -118,7 +118,7 @@
                     app:rcBackgroundColor="#ff3ba4dc"
                     app:rcBackgroundPadding="2dp"
                     app:rcMax="100"
-                    app:rcProgress="70"
+                    app:rcProgress="40"
                     app:rcProgressColor="@color/custom_progress_green_progress"
                     app:rcRadius="20dp" />
 

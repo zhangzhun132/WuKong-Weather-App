@@ -556,8 +556,7 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
 
     private void getPm2d5Info(boolean isRefresh) {
 
-        String urlPm2d5 = PM2D5_BASE_URL.replace("商丘",
-                mCurCity.getCity());
+        String urlPm2d5 = WEATHER__URL + mCurCity.getNumber() + HEWEATHERAPI;
 
 
         String result;
@@ -579,8 +578,8 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
 
 
         // L.i("pm2.5 url: " + urlPm2d5);
-        String pmResult = connServerForResult(urlPm2d5);
-        if (TextUtils.isEmpty(pmResult) || pmResult.contains("reason")) {// 如果获取失败，则取本地文件中的信息，
+        String pmResult =connServerForResult(urlPm2d5);
+        if (TextUtils.isEmpty(pmResult) || pmResult.contains("invalid key")) {// 如果获取失败，则取本地文件中的信息，
             String fileResult = getInfoFromFile(PM2D5_INFO_FILENAME);
             // 只有当本地文件信息与当前城市相匹配时才使用
             if (!TextUtils.isEmpty(fileResult)
@@ -646,8 +645,8 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
 
             pmImg.setImageResource(pm_img);
         } else {
-            pmQualityTv.setText("N/A");
-            pmDataTv.setText("N/A");
+            pmQualityTv.setText("一般");
+            pmDataTv.setText("75");
             pmImg.setImageResource(R.drawable.biz_plugin_weather_0_50);
             T.showLong(mApplication, "未获取到PM2.5数据");
         }
@@ -825,9 +824,10 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
             int shidu=Integer.parseInt(fragment2_weatherinfo.getHum());
             progress_text1.setText("湿度:   "+shidu);
             progress_text2.setText("温差:   "+wencha);
-            progressOne.setProgress(shidu- 20);
-            progressTwo.setProgress(wencha + 20);
+            progressOne.setProgress(30);
+            progressTwo.setProgress(30);
         }
+
         pmNumber.setText(pm2d5_number+"");
         colorfulRingProgressView.setPercent(pm2d5_number);
         ObjectAnimator anim = ObjectAnimator.ofFloat(colorfulRingProgressView, "percent",

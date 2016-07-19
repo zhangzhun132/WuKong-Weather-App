@@ -1,37 +1,5 @@
 [
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_mini_profile.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_mini_profile.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_switch.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_switch.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
     },
@@ -40,44 +8,28 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_secondary.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_city_item.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\search_city_item.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_toggle.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_secondary_toggle.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_ip_query_city.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_ip_query_city.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_primary.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_primary.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_section.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_section.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_m.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\pageturning_m.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_4x2.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\widget_4x2.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -88,24 +40,32 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\layout\\color_selector.xml"
     },
     {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_subitem.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_subitem.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_profile.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_profile.xml"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_mini.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_mini.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
@@ -116,14 +76,6 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\city_hot_item_layout.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
@@ -132,60 +84,76 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\widget_4x2.xml"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_load_empty_layout.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\base_load_empty_layout.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\footer.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\fragment1.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_text_round_corner_progress_bar.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\RoundCornerProgressBar\\unspecified\\res\\layout\\layout_text_round_corner_progress_bar.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_load_empty_layout.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\base_load_empty_layout.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_icon_round_corner_progress_bar.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\RoundCornerProgressBar\\unspecified\\res\\layout\\layout_icon_round_corner_progress_bar.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_layout.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_layout.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_profile_setting.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_profile_setting.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_toggle.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_secondary_toggle.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_item.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_item.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_layout.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_layout.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_cityhot_header_padding_blank.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\public_cityhot_header_padding_blank.xml"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_icon_round_corner_progress_bar.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\RoundCornerProgressBar\\unspecified\\res\\layout\\layout_icon_round_corner_progress_bar.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_cityhot_allcity.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\public_cityhot_allcity.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\r_okcanceldialogview.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\r_okcanceldialogview.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
@@ -196,16 +164,20 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\fragment2.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_round_corner_progress_bar.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\RoundCornerProgressBar\\unspecified\\res\\layout\\layout_round_corner_progress_bar.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_switch.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_switch.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_weather.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\content_weather.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_title.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\main_title.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
@@ -216,20 +188,16 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\item_list_app.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_indicator_popup.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_indicator_popup.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\dialog_list.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_box.xml",
@@ -248,6 +216,10 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\custom_view.xml"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_slider.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_slider.xml"
     },
@@ -256,36 +228,52 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_divider.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_more_list_item.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_more_list_item.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\r_okdialogview.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\r_okdialogview.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_compact_header.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_compact_header.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_city_item.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\select_city_item.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_container.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\base_container.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\header.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_text_round_corner_progress_bar.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\RoundCornerProgressBar\\unspecified\\res\\layout\\layout_text_round_corner_progress_bar.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_mini.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_mini.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_ip_query_city.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_ip_query_city.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\r_okdialogview.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\r_okdialogview.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_indicator_popup.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_indicator_popup.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_list_group_item.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_list_group_item.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
@@ -296,60 +284,56 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\dialog.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_select_city.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_select_city.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\dialog_view.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_header.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_header.xml"
     },
     {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\fragment1.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_grid.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\dialog_grid.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_h.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\pageturning_h.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_primary.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_primary.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\ptrlib\\unspecified\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_mini_profile.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_mini_profile.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
@@ -360,8 +344,16 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_recycler_view.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_compact_header.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_compact_header.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_switch.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_secondary_switch.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
@@ -384,20 +376,28 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\ptrlib\\unspecified\\res\\layout\\cube_ptr_classic_default_header.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_container.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_container.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\content.xml"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_section.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_section.xml"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_item.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_item.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_grid.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\dialog_grid.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_city_item.xml",
@@ -408,12 +408,12 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\progress_dialog.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_profile_setting.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_profile_setting.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_air.xml",
@@ -432,420 +432,8 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\layout\\snackbar.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment3.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\fragment3.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_toggle.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_toggle.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_box.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\search_box.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_city_item.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\select_city_item.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_select_city.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_select_city.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\color_selector.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_air.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\content_air.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_more_list_item.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_more_list_item.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\content.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_toggle.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_secondary_toggle.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_container.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_container.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_m.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\pageturning_m.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_h.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\pageturning_h.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_subitem.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_subitem.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_weather.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\content_weather.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_divider.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_divider.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_list_group_item.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_list_group_item.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\layout\\number_indicator_spinner.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\number_indicator_spinner.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_text_round_corner_progress_bar.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\RoundCornerProgressBar\\unspecified\\res\\layout\\layout_text_round_corner_progress_bar.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_subitem.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_subitem.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_app.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\item_list_app.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_icon_round_corner_progress_bar.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\RoundCornerProgressBar\\unspecified\\res\\layout\\layout_icon_round_corner_progress_bar.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_toggle.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_toggle.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_item_first.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_item_first.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_item.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_item.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_layout.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_layout.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\header.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_cityhot_header_padding_blank.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\public_cityhot_header_padding_blank.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_slider.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_slider.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\fragment2.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\dialog_list.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\snackbar.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_header.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_header.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_cityhot_allcity.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\public_cityhot_allcity.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_switch.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_switch.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_weather.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\content_weather.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\dialog_list.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_more_list_item.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_more_list_item.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_view.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\custom_view.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_container.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\base_container.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_ip_query_city.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_ip_query_city.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_indicator_popup.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_indicator_popup.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_list_group_item.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_list_group_item.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_recycler_view.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_recycler_view.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\materialize.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialize\\0.5.1\\res\\layout\\materialize.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_container.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\base_container.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\fragment1.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_switch.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_secondary_switch.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_h.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\pageturning_h.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_primary.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_primary.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\ptrlib\\unspecified\\res\\layout\\cube_ptr_simple_loading.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_profile.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_profile.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_switch.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_secondary_switch.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_secondary.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\r_okcanceldialogview.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\r_okcanceldialogview.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\WukongWeather\\ptrlib\\unspecified\\res\\layout\\cube_ptr_simple_loading.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_m.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\pageturning_m.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_container.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_container.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_section.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_section.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\layout\\dialog.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_grid.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\dialog_grid.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_profile_setting.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_profile_setting.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_title.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\main_title.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_round_corner_progress_bar.xml",
@@ -856,11 +444,23 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_toggle.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_toggle.xml"
+    },
+    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\layout\\dialog_view.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_city_item.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\select_city_item.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_plugin_weather_select_city.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\layout\\biz_plugin_weather_select_city.xml"
     }
 ]

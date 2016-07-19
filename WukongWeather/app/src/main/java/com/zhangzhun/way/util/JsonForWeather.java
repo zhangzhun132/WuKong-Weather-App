@@ -53,6 +53,12 @@ public class JsonForWeather {
         String chuanyi=drsg.getString("brf");
         JSONObject trav=sugObject.getJSONObject("trav");
         String lvyou=trav.getString("brf");
+        JSONObject aqi=data.getJSONObject("aqi");
+        JSONObject city_aqi=aqi.getJSONObject("city");
+        String pm25_city=city_aqi.getString("pm25");
+        String aqi_city=city_aqi.getString("aqi");
+        String qlty_city=city_aqi.getString("qlty");
+        String so2_city=city_aqi.getString("so2");
         if (wind_sc!=null){
             weatherinfo=new Weatherinfo();
             weatherinfo.setCondDay(cond_day);

@@ -21,6 +21,42 @@ public class Weatherinfo {
 	private String yundong;
 	private String chuanyi;
 	private String lvyou;
+	private String aqi;
+	private String pm25;
+	private String so2;
+	private String qlty;
+
+	public String getAqi() {
+		return aqi;
+	}
+
+	public void setAqi(String aqi) {
+		this.aqi = aqi;
+	}
+
+	public String getQlty() {
+		return qlty;
+	}
+
+	public void setQlty(String qlty) {
+		this.qlty = qlty;
+	}
+
+	public String getSo2() {
+		return so2;
+	}
+
+	public void setSo2(String so2) {
+		this.so2 = so2;
+	}
+
+	public String getPm25() {
+		return pm25;
+	}
+
+	public void setPm25(String pm25) {
+		this.pm25 = pm25;
+	}
 
 	public String getTianqi() {
 		return tianqi;

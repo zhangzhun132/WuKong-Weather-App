@@ -8,16 +8,8 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\title_update_anim.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\title_update_anim.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\title_update_anim.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_show_amin.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\dialog_root_show_amin.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_in_bottom.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
@@ -28,40 +20,36 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\fade_in_center.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\snackbar_show_animation.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\city_locating_anim.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\city_locating_anim.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_top.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_in_top.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_loading_small_anim.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\base_loading_small_anim.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_loading_large_anim.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\base_loading_large_anim.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_top.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_out_top.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_top.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_in_top.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_hide_animation.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\snackbar_hide_animation.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_out_bottom.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_hide_amin.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\anim\\dialog_root_hide_amin.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
@@ -72,12 +60,12 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\anim\\snackbar_show_animation.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_loading_large_anim.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\base_loading_large_anim.xml"
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_hide_amination.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\anim\\dialog_main_hide_amination.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_show_amin.xml",
@@ -96,20 +84,16 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_top.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_out_top.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_hide_animation.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\anim\\snackbar_hide_animation.xml"
     },
     {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_show_amination.xml",
@@ -120,104 +104,16 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_out_bottom.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_in_bottom.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_hide_amination.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\dialog_main_hide_amination.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\slide_in_bottom.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\city_locating_anim.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\city_locating_anim.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_show_amination.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\dialog_main_show_amination.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_center.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\fade_out_center.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_hide_amin.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\dialog_root_hide_amin.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_loading_small_anim.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\base_loading_small_anim.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_loading_large_anim.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\base_loading_large_anim.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_hide_amin.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\anim\\dialog_root_hide_amin.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\anim\\snackbar_show_animation.xml"
-    },
-    {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_hide_amination.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.vajro\\MaterialDesignLibrary\\1.6\\res\\anim\\dialog_main_hide_amination.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_center.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\fade_in_center.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\progress_indeterminate_animation.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\progress_indeterminate_animation.xml"
-    },
-    {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_loading_small_anim.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\src\\main\\res\\anim\\base_loading_small_anim.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "G:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_center.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.orhanobut\\dialogplus\\1.10\\res\\anim\\fade_out_center.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
