@@ -177,6 +177,8 @@ public class WeatherUpdateService extends Service {
 		registerReceiver();// 注册广播
 		updateTime();
 		updateWeather();
+		//flags=START_STICKY;
+
 		return super.onStartCommand(intent, flags, startId);
 	}
 
@@ -196,6 +198,8 @@ public class WeatherUpdateService extends Service {
 		super.onDestroy();
 		if (mTimePickerBroadcast != null)
 			unregisterReceiver(mTimePickerBroadcast);
+		Intent intent=new Intent("android.appwidget.action.APPWIDGET_UPDATE");
+		sendBroadcast(intent);
 	}
 
 }

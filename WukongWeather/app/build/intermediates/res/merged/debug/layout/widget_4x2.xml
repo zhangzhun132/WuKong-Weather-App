@@ -17,7 +17,7 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:scaleType="fitCenter"
-            android:src="@drawable/widget_4x2_grey" />
+             />
             android:src="@drawable/loading_bg2" 
 
         <!--

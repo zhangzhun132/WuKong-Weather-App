@@ -58,6 +58,9 @@ public class WeatherWidget extends AppWidgetProvider {
 		} else if (action.equals("android.intent.action.BOOT_COMPLETED")) {
 			context.startService(new Intent(context, WeatherUpdateService.class));
 		}
+		else if (action.equals("android.appwidget.action.APPWIDGET_UPDATE")){
+			context.startService(new Intent(context, WeatherUpdateService.class));
+		}
 		// else if (action.equals(WEATHERICON_HOTAREA_ACTION)) {
 		// Intent i = new Intent(context, MainActivity.class);
 		// i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);

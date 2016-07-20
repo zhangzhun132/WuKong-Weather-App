@@ -12,7 +12,7 @@
         android:paddingRight="8.0dip"
         android:paddingTop="0.0dip"
         android:scaleType="fitXY"
-        android:src="@drawable/time_mask_pt" />
+         />
 
     <ImageView
         android:id="@+id/pt_m_background1"
@@ -23,7 +23,7 @@
         android:paddingRight="5.0dip"
         android:paddingTop="3.0dip"
         android:scaleType="fitXY"
-        android:src="@drawable/time_mask_pt" />
+         />
 
     <LinearLayout
         android:layout_width="fill_parent"
