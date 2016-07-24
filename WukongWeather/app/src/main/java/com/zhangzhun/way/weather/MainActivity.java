@@ -17,6 +17,8 @@ import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
@@ -77,18 +79,32 @@ public class MainActivity extends AppCompatActivity implements
     public static Drawer drawer;
     private Fragment1 fragment1;
     private AccountHeader header;
+    AlertDialog.Builder deleteDialog;
     private ListView mListView;
     private DrawerCityAdapter drawerCityAdapter;
     private List cityData;
     private List tempData;
     private List imgData;
     TextView bottomLeft;
+    private static final int DIALOG_SHOW = 0;
     FragmentManager fragmentManager;
     FragmentTransaction fragmentTransaction;
     private Weatherinfo fragment_weatherinfo;
     private Pm2d5 fragment_pm;
     private City mCity;
 
+    private Handler mainHandler=new Handler(){
+        @Override
+        public void handleMessage(Message msg) {
+            switch (msg.what){
+                case DIALOG_SHOW:
+                    deleteDialog.show();
+                    break;
+
+            }
+            super.handleMessage(msg);
+        }
+    };
     public City getmCity() {
         return mCity;
     }
@@ -312,7 +328,7 @@ public class MainActivity extends AppCompatActivity implements
                 @Override
                 public boolean onItemLongClick(View view, int position, IDrawerItem drawerItem) {
                     final int p=position;
-                    AlertDialog.Builder deleteDialog=new AlertDialog.Builder(getApplicationContext());
+                    deleteDialog=new AlertDialog.Builder(getApplicationContext());
                     deleteDialog.setMessage("是否删除该城市？");
                     deleteDialog.setPositiveButton("是", new DialogInterface.OnClickListener() {
                         @Override
@@ -327,7 +343,9 @@ public class MainActivity extends AppCompatActivity implements
 
                         }
                     });
-                    deleteDialog.show();
+                    Message message_dialog=mainHandler.obtainMessage();
+                    message_dialog.what=DIALOG_SHOW;
+                    mainHandler.sendMessage(message_dialog);
                     return false;
                 }
             });

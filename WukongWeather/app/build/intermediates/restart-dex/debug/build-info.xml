@@ -4,29 +4,40 @@
     api-level="22"
     density="xxxhdpi"
     format="7"
-    timestamp="30098197716118" >
+    timestamp="910332462224" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1145" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="432" />
     <task
         name="verifier"
-        duration="0" />
+        duration="13" />
 
     <artifact
-        location="D:\android_studio\WukongWeather\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\android_studio\WukongWeather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\android_studio\WukongWeather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
 
-    <build timestamp="30098197716118" >
+    <build timestamp="531763290509" >
         <artifact
             location="D:\android_studio\WukongWeather\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="910332462224" >
+        <artifact
+            location="D:\android_studio\WukongWeather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android_studio\WukongWeather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

@@ -56,12 +56,12 @@
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_mini.xml",
         "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\4.6.4\\res\\layout\\material_drawer_item_mini.xml"
+    },
+    {
+        "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "D:\\android_studio\\WukongWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",

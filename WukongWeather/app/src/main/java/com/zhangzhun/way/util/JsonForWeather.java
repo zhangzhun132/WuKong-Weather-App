@@ -15,7 +15,8 @@ import java.util.List;
  */
 public class JsonForWeather {
     public static Weatherinfo getCurrentWeather(String json) throws JSONException {
-        Weatherinfo weatherinfo=null;
+        Weatherinfo weatherinfo=new Weatherinfo();
+        JSONObject aqi=null;
         String wind_sc=null;
         JSONObject jsonObject=new JSONObject(json);
         JSONArray jsonArray=jsonObject.getJSONArray("HeWeather data service 3.0");
@@ -53,14 +54,10 @@ public class JsonForWeather {
         String chuanyi=drsg.getString("brf");
         JSONObject trav=sugObject.getJSONObject("trav");
         String lvyou=trav.getString("brf");
-        JSONObject aqi=data.getJSONObject("aqi");
-        JSONObject city_aqi=aqi.getJSONObject("city");
-        String pm25_city=city_aqi.getString("pm25");
-        String aqi_city=city_aqi.getString("aqi");
-        String qlty_city=city_aqi.getString("qlty");
-        String so2_city=city_aqi.getString("so2");
+
+
         if (wind_sc!=null){
-            weatherinfo=new Weatherinfo();
+
             weatherinfo.setCondDay(cond_day);
             weatherinfo.setCondNight(cond_night);
             weatherinfo.setHum(hum);

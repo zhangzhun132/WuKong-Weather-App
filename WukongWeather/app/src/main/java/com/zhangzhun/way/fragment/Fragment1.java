@@ -646,9 +646,10 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
             pmImg.setImageResource(pm_img);
         } else {
             pmQualityTv.setText("一般");
-            pmDataTv.setText("75");
+            //pmDataTv.setText("75");
             pmImg.setImageResource(R.drawable.biz_plugin_weather_0_50);
-            T.showLong(mApplication, "未获取到PM2.5数据");
+            //T.showLong(mApplication, "未获取到PM2.5数据");
+            frame.refreshComplete();
         }
     }
 
@@ -820,12 +821,12 @@ public class Fragment1 extends Fragment implements Application.EventHandler, Vie
 
             int wencha_max=Integer.parseInt(fragment2_weatherinfo.getTmpMax());
             int wencha_min=Integer.parseInt(fragment2_weatherinfo.getTmpMin());
-            int wencha=wencha_max-wencha_min;
-            int shidu=Integer.parseInt(fragment2_weatherinfo.getHum());
-            progress_text1.setText("湿度:   "+shidu);
-            progress_text2.setText("温差:   "+wencha);
-            progressOne.setProgress(30);
-            progressTwo.setProgress(30);
+            int pm10=Integer.parseInt(fragment2_pm.getSo2());
+            int aqi=Integer.parseInt(fragment2_pm.getAQI());
+            progress_text1.setText("AQI:   "+aqi);
+            progress_text2.setText("PM10:   "+pm10);
+            progressOne.setProgress(aqi);
+            progressTwo.setProgress(pm10);
         }
 
         pmNumber.setText(pm2d5_number+"");
